@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        
         // Problem 1: Simple for loop
         for (int i = 1; i <= 10; i++)
         {
@@ -93,6 +94,5 @@ class Program
         {
             Console.WriteLine(i);
         }
-
     }
 }
